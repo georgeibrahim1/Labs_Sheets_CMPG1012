@@ -1,0 +1,4 @@
+﻿  Empolyee Project.cpp
+C:\Users\PC\Desktop\Courses\College\Fall 24\LIFE\Labs & Sheets CMPG1012\Lab 5\Empolyee Project\Empolyee Project.cpp(76,26): error C2061: syntax error: identifier 'Manager'
+C:\Users\PC\Desktop\Courses\College\Fall 24\LIFE\Labs & Sheets CMPG1012\Lab 5\Empolyee Project\Empolyee Project.cpp(77,9): error C2143: syntax error: missing ';' before '{'
+C:\Users\PC\Desktop\Courses\College\Fall 24\LIFE\Labs & Sheets CMPG1012\Lab 5\Empolyee Project\Empolyee Project.cpp(80,9): error C2181: illegal else without matching if
