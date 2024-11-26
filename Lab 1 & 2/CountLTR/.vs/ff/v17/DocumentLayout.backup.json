@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449D7931-5A9B-4117-B179-717B53EFB5C6}|..\\Reorder\\Reorder.vcxproj|C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\Reorder\\Reorder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015B274B-9A8E-4B8C-BEBF-6779D624D7E9}|..\\ReorderMe\\ReorderMe.vcxproj|C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ReorderMe\\ReorderMe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884714A4-65C2-40A8-8C61-0289B9496AC5}|..\\Reverse-A-Non-Symmetric-Array\\Reverse-A-Non-Symmetric-Array.vcxproj|C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\Reverse-A-Non-Symmetric-Array\\Reverse-A-Non-Symmetric-Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2B8CC3-55D6-42EF-B4D4-D26A1CD5C0FC}|ff.vcxproj|C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ff\\ff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B2B8CC3-55D6-42EF-B4D4-D26A1CD5C0FC}|ff.vcxproj|solutionrelative:ff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F2DBE0-91DC-4EA8-9C96-F3A79FD3FCFB}|..\\CalcMaxMinEvens Function\\CalcMaxMinEvens Function.vcxproj|C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\CalcMaxMinEvens Function\\CalcMaxMinEvens Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A972FA9-7756-4499-8B5B-8D837EAA99B6}|..\\ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reorder.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\Reorder\\Reorder.cpp",
+              "RelativeDocumentMoniker": "..\\Reorder\\Reorder.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\Reorder\\Reorder.cpp",
+              "RelativeToolTip": "..\\Reorder\\Reorder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:56:46.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReorderMe.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ReorderMe\\ReorderMe.cpp",
+              "RelativeDocumentMoniker": "..\\ReorderMe\\ReorderMe.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ReorderMe\\ReorderMe.cpp",
+              "RelativeToolTip": "..\\ReorderMe\\ReorderMe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:25:58.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reverse-A-Non-Symmetric-Array.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\Reverse-A-Non-Symmetric-Array\\Reverse-A-Non-Symmetric-Array.cpp",
+              "RelativeDocumentMoniker": "..\\Reverse-A-Non-Symmetric-Array\\Reverse-A-Non-Symmetric-Array.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\Reverse-A-Non-Symmetric-Array\\Reverse-A-Non-Symmetric-Array.cpp",
+              "RelativeToolTip": "..\\Reverse-A-Non-Symmetric-Array\\Reverse-A-Non-Symmetric-Array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:04:36.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalcMaxMinEvens Function.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\CalcMaxMinEvens Function\\CalcMaxMinEvens Function.cpp",
+              "RelativeDocumentMoniker": "..\\CalcMaxMinEvens Function\\CalcMaxMinEvens Function.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\CalcMaxMinEvens Function\\CalcMaxMinEvens Function.cpp",
+              "RelativeToolTip": "..\\CalcMaxMinEvens Function\\CalcMaxMinEvens Function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T23:30:44.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T22:35:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ff.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ff\\ff.cpp",
+              "RelativeDocumentMoniker": "ff.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Courses\\College\\Fall 24\\LIFE\\Labs \u0026 Sheets CMPG1012\\Lab 1 \u0026 2\\ff\\ff.cpp",
+              "RelativeToolTip": "ff.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T22:13:56.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
